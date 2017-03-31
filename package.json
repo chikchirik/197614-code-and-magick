@@ -13,8 +13,8 @@
   },
   "homepage": "https://github.com/htmlacademy-javascript/197614-code-and-magick",
   "devDependencies": {
-    "eslint": "3.9.0",
-    "eslint-config-htmlacademy": "0.2.x"
+    "eslint": "^3.18.0",
+    "eslint-config-htmlacademy": "^0.2.3"
   },
   "license": "MIT",
   "dependencies": {},
